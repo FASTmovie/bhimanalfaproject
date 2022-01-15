@@ -108,7 +108,7 @@ python3 bot.py
 ## Thanks to 
  - Thanks To Dan For ♔☈_♭♄♗♔ꍏ♫ His Awesome [❤️fast movie🖤](https://telegram.dog/mrbhiman12)
  - Thanks To『ϻᴿ』☯️Sʜᴀᴅօw For His Awesome [❤️movie REQUST group🖤](https://telegram.dog/mrbhiman)
- - Thanks To [『ϻᴿ』☯️Sʜᴀᴅօw](https://telegram.dog/mrbhiman44) for Their Awesome [❤️movie REQUST group🖤](https://telegram.dog/mrbhiman12) And [BHIMAN ALFA PROJECT](https://github.com/FASTmovie/mrbhimanprojectalfa)
+ - Thanks To [『ϻᴿ』☯️Sʜᴀᴅօw](https://telegram.dog/mrbhiman44) for Their Awesome [❤️movie REQUST group🖤](https://telegram.dog/mrbhiman12) And [BHIMAN ALFA PROJECT](https://github.com/FASTmovie/bhimanalfaproject)
  - THISE IS OUR GANG
 
 ### Note

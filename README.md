@@ -1,5 +1,5 @@
 <p align="center">
- <img src="assets/logo.jpg" alt="FAST MOVIE Logo">
+ <img src="alfa/logo.jpg" alt="FAST MOVIE Logo">
 </p>
 <h1 align="center">
   <b>alfa project by bhiman</b>

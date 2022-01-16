@@ -1,5 +1,5 @@
 <p align="center">
- <img src="alfa/logo.jpg" alt="FAST MOVIE Logo">
+ <img src="alfa/https://github.com/FASTmovie/bhimanalfaproject/blob/main/alfa/IMG_20211028_234602_973%20(1).jpg" alt="FAST MOVIE Logo">
 </p>
 <h1 align="center">
   <b>alfa project by bhiman</b>
